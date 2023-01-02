@@ -1,0 +1,95 @@
+﻿  main.cpp
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(329,46): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(412,48): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(413,47): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(414,46): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(415,47): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(423,48): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(424,47): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(425,48): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(426,49): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(456,38): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(457,55): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(457,38): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(458,47): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(460,12): warning C4305: "+=": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(462,11): warning C4305: "+=": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(651,25): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(657,24): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(710,30): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(711,45): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(716,30): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(717,49): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(721,31): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(723,31): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(727,31): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(728,51): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(733,31): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(734,51): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(739,34): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(741,34): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(745,35): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(746,56): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(751,37): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(752,55): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(757,34): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(758,48): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(764,29): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(766,31): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(770,30): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(771,51): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(776,30): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(777,51): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(782,33): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(784,35): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(788,33): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(789,55): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(794,35): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(795,54): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(800,32): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(801,47): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(807,33): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(809,31): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(813,34): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(814,52): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(819,35): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(821,33): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(825,36): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(826,54): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(831,36): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(832,54): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(837,37): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(838,54): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(844,33): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(846,33): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(850,34): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(851,53): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(856,34): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(858,34): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(862,35): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(863,54): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(868,35): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(869,54): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(874,36): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(875,54): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(939,42): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1086,24): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1133,24): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1174,24): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1219,24): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1290,81): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1290,31): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1294,14): warning C4244: "-=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1295,14): warning C4244: "-=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1302,81): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1302,31): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1307,14): warning C4244: "+=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1308,14): warning C4244: "+=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1315,87): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1315,37): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1319,88): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1319,38): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1325,30): warning C4305: "=": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1326,32): warning C4305: "=": Verkürzung von "double" in "GLfloat"
+C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\GDVAbgabe\main.cpp(1327,30): warning C4305: "=": Verkürzung von "double" in "GLfloat"
+  GDVAbgabe.vcxproj -> C:\Users\Solaiman Scheraz\source\repos\GDVAbgabe\Debug\GDVAbgabe.exe

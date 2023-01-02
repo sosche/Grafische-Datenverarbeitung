@@ -1,0 +1,69 @@
+glPushMatrix();
+	//Robot Komplett
+	
+	glPushMatrix();
+		glPushMatrix();
+		//Kopf
+		glPopMatrix();
+		
+		glPushMatrix();
+			//KÃ¶rper
+		glPopMatrix();
+
+			glPushMatrix();
+			
+				glPushMatrix();
+				//RechterOberarm
+				glPopMatrix();
+				
+				glPushMatrix();
+					glPushMatrix();
+					//RechterUnterarm
+					glPopMatrix();
+					
+					glPushMatrix();
+					//RechteHand
+					glPopMatrix();
+					
+				glPopMatrix();
+				
+			glPopMatrix();
+
+			glPushMatrix();
+			
+				glPushMatrix();
+				//LinkerOberarm
+				glPopMatrix();
+				
+				glPushMatrix();
+					glPushMatrix();
+					//LinkerUnterarm
+					glPopMatrix();
+					
+					glPushMatrix();
+					//LinkeHand
+					glPopMatrix();
+					
+				glPopMatrix();
+				
+			glPopMatrix();
+			
+			glPushMatrix();
+			
+				glPushMatrix();
+				//RechtesBein
+				glPopMatrix();
+				
+			glPopMatrix();
+
+			glPushMatrix();
+			
+				glPushMatrix();
+				//LinkesBein
+				glPopMatrix();
+				
+			glPopMatrix();
+
+	glPopMatrix();
+
+glPopMatrix();
